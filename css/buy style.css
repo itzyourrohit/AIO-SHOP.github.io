@@ -1,0 +1,111 @@
+body
+{
+	background: linear-gradient(rgba(120,114,110,1),#dbdbdb,#717171);
+}
+.header
+{
+	background: linear-gradient(rgba(255,136,0,1),#ffffff,#25b900);
+	width: 100%;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	height: 60px;
+}
+.logo
+{
+	height: 50px;
+	border-radius: 5px;
+}
+.signup .login
+{
+	text-decoration: none;
+	color: blue;
+}
+.search
+{
+	width: 250px;
+	height: 25px;
+	border-radius: 5px;
+}
+.more
+{
+	color: blue;
+	cursor: pointer;
+}
+.item
+{
+	border-radius: 25px;
+	box-shadow: 5px 5px 10px 0 #0040ff;
+	margin-left: 75px;
+}
+.d1 
+{
+	padding-left: 200px;
+
+}
+.heading
+{
+	color: blue;
+	font-family: monotype corsiva;
+	font-size: 40px;
+}
+.price
+{
+	color: green;
+	font-size: 20px;
+
+}
+.oprices
+{
+	color: red;
+	font-size: 17px;
+}
+.discount
+{
+	color: red;
+	font-size: 25px;
+}
+.b1
+{
+	position: relative;
+	text-align: center;
+	width: 150px;
+	height: 50px;
+	
+	font-size: 20px;
+	color: #15f4ee; 
+	font-weight: 400px;
+	border: 5px solid #15f4ee;
+	text-transform: uppercase;
+	letter-spacing: 15px;
+	cursor: pointer;
+	border-radius: 10px;
+	transition: 1s;
+}
+.b1:hover
+{
+	border: 5px solid red;
+	color: red;
+}
+.b2
+{
+	position: relative;
+	text-align: center;
+	width: 250px;
+	height: 50px;
+	font-size: 20px;
+	color: #15f4ee; 
+	font-weight: 400px;
+	border: 5px solid #15f4ee;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	cursor: pointer;
+	border-radius: 10px;
+	transition: 1s;
+	
+}
+.b2:hover
+{
+	border: 5px solid red;
+	color: red;
+}
